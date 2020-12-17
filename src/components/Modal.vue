@@ -35,7 +35,7 @@ export default {
         height: 100%;
     }
     .modal h1{
-        color:rgb(51, 79, 236);
+        color:rgb(92, 92, 93);
     }
     .modal p{
         font-style: normal;

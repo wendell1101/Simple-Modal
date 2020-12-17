@@ -24,8 +24,8 @@ export default {
   data () {
     return{
       title : 'Standard Modal',
-      header: "Sign up for the holiday promo",
-      text: "Grab yours now",
+      header: "Modal Header",
+      text: "lorem impsum dolor sir amet",
       showModal : false,
     }
   },
