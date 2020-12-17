@@ -1,5 +1,5 @@
 # modal-app
-
+demo : https://wendell1101-simple-modal.netlify.app/
 ## Project setup
 ```
 yarn install
